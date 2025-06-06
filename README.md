@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👩‍💻 Olá, eu sou a **Luisa Helena**!
 
-<!--
-**luisahcs/luisahcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia de Software**  
+🧠 Profissional da área de **planejamento**  
+💡 Apaixonada por **tecnologia**, **inovação** e **otimização de processos**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Linguagens que estudo e utilizo
+
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+<br><br>
+
+---
+
+## 💼 Onde me encontrar
+
+- 🔗 [LinkedIn](https://linkedin.com/in/luisahelena-cs)
+
+---
+
+## ✨ Sobre mim
+
+- 🧩 Amante da **resolução de problemas** e **desafios lógicos**
+- 📅 Fascinada por **planejamento**, **organização** e **gestão de tempo**
+- ⏱ Sempre buscando formas de **otimizar rotinas**
+- 🧠 Curiosa por natureza e sempre **aprendendo algo novo**
+- 🐓 **Atleticana apaixonada** – Galo até o fim! 🖤🤍
+
+---
+
+## 📌 Em breve...
+
+Em breve você vai encontrar por aqui projetos, ideias e iniciativas que unem **software, inovação** e **planejamento inteligente**. 💭🚀
+
+---
